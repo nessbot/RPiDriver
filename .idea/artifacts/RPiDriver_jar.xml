@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPiDriver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RPiDriver_jar</output-path>
+    <root id="archive" name="RPiDriver.jar">
+      <element id="module-output" name="RPiDriver" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/0.0.5/pi4j-core-0.0.5.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-native/0.0.5/pi4j-native-0.0.5-hard-float.so" />
+      <element id="dir-copy" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-native/0.0.5/pi4j-native-0.0.5-soft-float.so" />
+    </root>
+  </artifact>
+</component>
